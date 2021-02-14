@@ -1,2 +1,3 @@
 # Problema_Caixeiro_Viajante
- Trabalho Acadêmico
+ 
+ Inserção do Vizinho mais distante e Inserção do Vizinho com Distância Média
